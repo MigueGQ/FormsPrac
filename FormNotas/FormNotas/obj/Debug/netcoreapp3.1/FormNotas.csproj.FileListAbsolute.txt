@@ -1,0 +1,15 @@
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\bin\Debug\netcoreapp3.1\FormNotas.exe
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\bin\Debug\netcoreapp3.1\FormNotas.deps.json
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\bin\Debug\netcoreapp3.1\FormNotas.runtimeconfig.json
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\bin\Debug\netcoreapp3.1\FormNotas.runtimeconfig.dev.json
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\bin\Debug\netcoreapp3.1\FormNotas.dll
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\bin\Debug\netcoreapp3.1\FormNotas.pdb
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\obj\Debug\netcoreapp3.1\FormNotas.csproj.AssemblyReference.cache
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\obj\Debug\netcoreapp3.1\FormNotas.Form1.resources
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\obj\Debug\netcoreapp3.1\FormNotas.csproj.GenerateResource.cache
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\obj\Debug\netcoreapp3.1\FormNotas.AssemblyInfoInputs.cache
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\obj\Debug\netcoreapp3.1\FormNotas.AssemblyInfo.cs
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\obj\Debug\netcoreapp3.1\FormNotas.csproj.CoreCompileInputs.cache
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\obj\Debug\netcoreapp3.1\FormNotas.dll
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\obj\Debug\netcoreapp3.1\FormNotas.pdb
+C:\Users\Guardado\source\repos\FormNotas\FormNotas\obj\Debug\netcoreapp3.1\FormNotas.genruntimeconfig.cache
